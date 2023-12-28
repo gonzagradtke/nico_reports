@@ -1,9 +1,9 @@
 <div align="center">
 
-  <h1 align="center">alyf_reports</h1>
+  <h1 align="center">nico_reports</h1>
 
   <p align="center">
-    Bair.es Notify
+    Nico_Reports (bair.es reports)
   </p>
 </div>
 
@@ -15,5 +15,5 @@
 - Place it somewhere inside the `resources` directory
 - Add the resource to your `server.cfg` after dependencies to make sure it's started correctly at server startup:
 ```
-ensure alyf_notify
+ensure nico_reports
 ```
